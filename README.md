@@ -5,7 +5,7 @@
 ### 🚀 Full Stack Developer | Python & Django Enthusiast
 
 [![Email](https://img.shields.io/badge/-Email%20Me-D14836?logo=gmail&logoColor=white)](mailto:shamilnk0458@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shamil-nk/)
 
 ---
 
